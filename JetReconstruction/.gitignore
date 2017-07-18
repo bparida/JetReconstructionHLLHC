@@ -1,0 +1,26 @@
+JetInterface/
+JetMomentTools/
+JetRec/
+JetRecTools/
+JetSubStructureMomentTools/
+Asg_FastJet/
+BoostedJetTaggers/
+
+PFlowUtils/
+RootCoreBin/
+run/
+ShowerDeconstruction/
+TestPythonConfig/
+tmp/
+xAODAnaHelpers/
+rcSetup.csh
+rcSetup.sh
+ParticleJetTools/
+needed.txt
+
+# ignore everything not already tracked :
+*/
+# except those :
+!JSSTutorial/
+!JSSTutorial/*
+!utils/
